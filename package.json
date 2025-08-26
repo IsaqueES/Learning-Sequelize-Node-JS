@@ -1,0 +1,12 @@
+{
+  "name": "LearningSQLND",
+  "version": "1.0.0",
+  "description": "Lerning Sequelize & Node ",
+  "main": "index.js",
+  "repository": "https://github.com/IsaqueES/Learning-Sequelize-Node-JS.git",
+  "author": "Isaque",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
