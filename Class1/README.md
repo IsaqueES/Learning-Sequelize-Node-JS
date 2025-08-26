@@ -1,0 +1,1 @@
+On this class i learned how to manage my javascript archives and use {class} to make it more organized

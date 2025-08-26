@@ -2,11 +2,24 @@
   "name": "LearningSQLND",
   "version": "1.0.0",
   "description": "Lerning Sequelize & Node ",
-  "main": "index.js",
+  "main": "Class4/SRC/server.js",
   "repository": "https://github.com/IsaqueES/Learning-Sequelize-Node-JS.git",
   "author": "Isaque",
   "license": "MIT",
+  "scripts": {
+    "app": "nodemon SRC/server.js"
+  },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "pg": "^8.16.3",
+    "pg-hstore": "^2.3.4",
+    "sucrase": "^3.35.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "globals": "^16.3.0",
+    "sequelize-cli": "^6.6.3"
   }
 }
