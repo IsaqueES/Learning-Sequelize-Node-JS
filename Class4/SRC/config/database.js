@@ -5,7 +5,7 @@ export default {
     host:'localhost',
     port:'5432',
     username:'postgres',
-    passowrd:'aluno123',
+    password:'aluno123',
     database:'',
     define:{
         timestamps:true,
